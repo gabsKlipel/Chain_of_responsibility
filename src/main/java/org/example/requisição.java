@@ -6,6 +6,7 @@ public class requisição {
         switch (nivel){
             case nivel.FACIL:
 
+            case nivel.MEDIO:
         }
 
     }
